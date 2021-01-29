@@ -1,15 +1,10 @@
-## CYBR4580/8950 Project Milestone 1: Requirements analysis and planning (Project Proposal Stage)
+## CYBR4580/8950 Project Milestone 1: Requirements analysis and planning
 
 ### Due Date
-February 13 by class time
-
-**Submit a GitHub repo link to canvas**
-**Add Dr. Hale as a collaborator on your GitHub Repo**
+February 13
 
 
-## Overview
-This project milestone tasks you with identifying project requirements, analyzing them to determine needed resources (technology and skillsets), preparing a project management plan, and packaging all of this as a project proposal. Overall, this means you will prepare a series of project management and design artifacts. Towards this goal, you will be required to submit the following by the due date:
-
+## Tasks
 - [Executive Project Summary](#executive-project-summary) - What are you doing and why?
   - Goals and Objectives
   - Merit of the Project
@@ -22,8 +17,6 @@ This project milestone tasks you with identifying project requirements, analyzin
 - [First Sprint Plan](#first-sprint-plan) - Create the first plan on GitHub Kanban
 - [Note about Teamwork and Group projects](#teamwork)
 
-### Using GitHub and Markdown
-For this and future projects you will submit your milestone work using GitHub (only adding the link to Canvas and Submitting a PDF copy to PURR). We will talk about this in class.
 
 ## Executive Project Summary
 An executive summary should be evocative. It should capture a reader and make them want to be a part of your idea. In this milestone you will write an executive summary that defines the goals and objectives of your project in language that is easily readable and mental-image evoking. I (or anyone else) should be able to read your executive summary and instantly know a) what you are doing and b) why it is important. Executive summaries should be exciting and interesting. It is the first (and likely the only) chance for you to engage your reader and, in a real world setting, would determine if your product gets funded. An executive summary does not need technical detail to describe interesting functionality. You should mention your product by name without using phrases such as "the class", "the instructor", "project 2" etc.
